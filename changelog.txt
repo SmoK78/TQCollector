@@ -95,3 +95,6 @@ v1.3.0.0 05/12/2021 (Eternal Embers)
 - added Eternal Embers items
 - Addon filtering for Easter egg parchments
 - added option for display of number of items next to item name
+
+v1.3.0.1 13/02/2022
+- added entries for Atlantis MIs that now drop
